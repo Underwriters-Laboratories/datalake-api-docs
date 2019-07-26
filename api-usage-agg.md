@@ -1,6 +1,6 @@
 # Data Aggregation
 
-The data aggregation API allow you to aggregate the data based on a search query. This example will give us the number of incidents that contains  "light" or "lights" keywords.
+The data aggregation API allows you to aggregate the data based on a search query. This example will give us the number of incidents that contain "light" or "lights" keywords.
 
 ## `Request Body Search`
 Request

@@ -67,7 +67,7 @@ Response
 }
 ```
 
-Here is an example using boolean logics:
+Here is an example using boolean logic:
 
 Request
 
