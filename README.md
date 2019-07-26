@@ -2,7 +2,7 @@
 
 Safety Data Lake is a searchable database that consolidates open source data from multiple safety databases into a single environment.
 
-Additionally, it also enables users to experience machine learning integrated features, safety marks detection on images and recomendation systems.
+Additionally, it also enables users to experience machine learning integrated features, safety marks detection on images and recommendation systems.
 
 
 ## Quick Start:
