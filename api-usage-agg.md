@@ -1,4 +1,4 @@
-## `Data Aggregation`
+# Data Aggregation
 
 The data aggregation API allow you to aggregate the data based on a search query. This example will give us the number of incidents that contains  "light" or "lights" keywords.
 
@@ -96,7 +96,7 @@ Response
 }
 ```
 
-### `Data Aggregation by terms`
+### `Data Aggregation By Terms`
 
 We also can aggregate the data by terms. Here is an example:
 
