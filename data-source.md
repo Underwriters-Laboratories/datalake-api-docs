@@ -1,6 +1,6 @@
 # Data Source and Index Name
 
-In order to retrive  the data from  API, index name can be used to specific the source of data.
+To retrieve the data from APIs, the index name can be used to specify the source of data.
 
 ### US Consumer Product Safety Commission (CPSC)
 
