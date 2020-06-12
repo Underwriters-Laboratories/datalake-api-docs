@@ -25,5 +25,5 @@ Password: reader
 General usage of the API follows the following syntax: https://opendata.ul.org/api/es/{index}/_search where {index} is the index name.
 
 ```
-https://opendata.ul.org/api/es/ppe_eu_rapex,ppe_cpsc_recall/_search
+https://opendata.ul.org/api/es/ppe_fda_enforcement,ppe_cpsc_recall/_search
 ```

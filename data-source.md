@@ -9,8 +9,6 @@ To retrieve the data from APIs, the index name can be used to specify the source
 | Recalls                                                | ppe_cpsc_recall        |
 | SaferProducts                                          | ppe_cpsc_saferproducts |
 | National Electronic Injury Surveillance System (NEISS) | ppe_cpsc_neiss         |
-| Injury/Potential Injury Incident (IPII)                | ppe_cpsc_ipii          |
-| Death Certificate (DTH)                                | ppe_cpsc_dth           |
 
 ### European Commission
 
@@ -26,9 +24,10 @@ To retrieve the data from APIs, the index name can be used to specify the source
 
 ## U.S. Food and Drug Administration (FDA)
 
-| Data Source                                              | Index Name    |
-| -------------------------------------------------------- | ------------- |
-| Manufacturer and User Facility Device Experience (MAUDE) | ppe_fda_maude |
+| Data Source                                              | Index Name          |
+| -------------------------------------------------------- | ------------------- |
+| Manufacturer and User Facility Device Experience (MAUDE) | ppe_fda_maude       |
+| Enforcement Report                                       | ppe_fda_enforcement |
 
 ## Organisation for Economic Co-operation and Development
 
